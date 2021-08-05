@@ -2,4 +2,4 @@
 React code running and pushed to submit project
 
 
-![Screenshot](work.png)
+![Screenshot](work.PNG)
